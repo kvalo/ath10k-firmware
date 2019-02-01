@@ -3,7 +3,8 @@ ath10k-firmware
 
 These are the latest firmware files for ath10k, a mac80211 driver for
 QCA988x, QCA6174, QCA99XX and similar. The official location to
-download ath10k images is from linux-firmware:
+download ath10k images is from linux-firmware (it may contain an older version):
+
 
 https://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/
 
