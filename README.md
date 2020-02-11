@@ -9,6 +9,6 @@ https://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/
 
 For more information check the wiki:
 
-http://wireless.kernel.org/en/users/Drivers/ath10k/firmware
+http://wireless.wiki.kernel.org/en/users/Drivers/ath10k/firmware
 
 
