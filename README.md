@@ -9,6 +9,17 @@ https://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/
 
 For more information check the wiki:
 
-http://wireless.kernel.org/en/users/Drivers/ath10k/firmware
+https://wireless.wiki.kernel.org/en/users/Drivers/ath10k/firmware
 
+Submit bug reports, questions, comments and feature requests to the
+ath10k mailing list:
 
+https://wireless.wiki.kernel.org/en/users/drivers/ath10k/support
+
+Submit board file additions:
+
+https://wireless.wiki.kernel.org/en/users/drivers/ath10k/boardfiles
+
+For anything else check the ath10k wiki:
+
+https://wireless.wiki.kernel.org/en/users/drivers/ath10k
